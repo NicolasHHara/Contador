@@ -13,6 +13,7 @@ btnmenos.addEventListener("click", () => {
     let menos = convert - 1;
     if(result.innerHTML == 0){
         result.innerHTML = 0;
+        alert ("Não da")
     }
     else{
         result.innerHTML = menos;

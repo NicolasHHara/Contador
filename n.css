@@ -14,20 +14,21 @@
 }
 
 #numb0{
-    background-color: black;
+    background-color: lightblue;
     width: 75%;
     margin-left: 12.5%;
     height: 50px;
     margin-top: 50%;
-    color: aliceblue;
+    color: black;
+    font-size: large;
     text-align: center;
     padding-top: 30px;
     border-radius: 25px;
 
 }
 .container{
-    margin-left: 43%;
-    margin-top: 20%;
+    margin-left: 35%;
+    margin-top: 10%;
     width: 500px;
     height: 100px;
     
